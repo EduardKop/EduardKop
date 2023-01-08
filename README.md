@@ -1,5 +1,3 @@
-# Hello there👋,i'm Eduard!  <br /> 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardKop&layout=compact&&theme=react)](https://github.com/EduardKop) -->
 
 <p align="center">
 	<a href="https://github.com/EduardKop"><img src="imgs/github.png"  width="63" height="20" alt="GitHub"></a>
