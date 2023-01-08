@@ -1,8 +1,10 @@
 
+<h4>Hey! Nice to see you.</h4>
+
 Welcome to my page!
 I'm Eduard, Front-End developer from  Lviv, Ukraine, currently living in  Lviv.
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/EduardKop"><img src="imgs/github.png"  width="63" height="20" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/eduard-korytnyk-6b3929155/"><img src="imgs/linkedin.svg" alt="LinkedIn""></a>
 	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduard.korytnyk@gmail.com"><img src="imgs/gmail.png" width="63" height="20" alt="Email"></a>
@@ -10,8 +12,8 @@ I'm Eduard, Front-End developer from  Lviv, Ukraine, currently living in  Lviv.
     <a href="https://web-cv-next.vercel.app/works"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 </p>
 
-####Things I code with
-
+<h4>Things I code with</h4>
+<p align="left">
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="ES6" src="https://img.shields.io/badge/-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=EB844E" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=13324B" />
@@ -34,5 +36,5 @@ I'm Eduard, Front-End developer from  Lviv, Ukraine, currently living in  Lviv.
 
 
 
-
+</p>
 
